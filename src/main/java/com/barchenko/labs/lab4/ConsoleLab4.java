@@ -61,6 +61,7 @@ public class ConsoleLab4 {
                 break;
             default:
         }
+
         logYourOffer();
         menu();
     }
