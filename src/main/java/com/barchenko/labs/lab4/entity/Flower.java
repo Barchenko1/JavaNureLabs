@@ -54,6 +54,7 @@ public class Flower {
                 ", price=" + price +
                 ", length=" + length +
                 ", flowerType=" + flowerType +
+                ", freshnessLevel=" + freshnessLevel +
                 '}';
     }
 }

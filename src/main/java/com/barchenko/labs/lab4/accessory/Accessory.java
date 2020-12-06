@@ -1,14 +1,10 @@
 package com.barchenko.labs.lab4.accessory;
 
 public abstract class Accessory {
-    private int price;
+    protected int price;
 
-    public int getPrice() {
+    public int calculateCost() {
         return price;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
     }
 
     @Override
