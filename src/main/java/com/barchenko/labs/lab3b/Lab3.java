@@ -1,4 +1,4 @@
-package com.barchenko.labs.lab3;
+package com.barchenko.labs.lab3b;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -100,10 +100,6 @@ public class Lab3 {
         if (str.equals("q")) {
             flag = false;
         }
-    }
-
-    public void taskC1() {
-
     }
 
 }
